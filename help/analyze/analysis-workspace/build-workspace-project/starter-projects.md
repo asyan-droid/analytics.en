@@ -54,7 +54,7 @@ Here are available templates and the questions that each template helps answer.
 
 ### Training
 
-These standard templates walk you through common terminology and steps for building your first analysis in Workspace. They is available as a standard template in the New Project modal and replace the sample project that exists today for new users that do not have other projects in their list.
+These standard templates walk you through common terminology and steps for building your first analysis in Workspace. They are available as a standard template in the New Project modal and replace the sample project that exists today for new users that do not have other projects in their list.
 
 * **Training Tutorial - Internal Search Analysis**: The Internal Search tutorial helps you understand what your visitors are looking for on the website or app, but not finding. Analyzing this type of data can surface content optimization opportunities.
 
